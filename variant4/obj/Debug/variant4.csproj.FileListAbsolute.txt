@@ -1,0 +1,16 @@
+C:\Users\Okysherka2012\Desktop\zxc\variant4\variant4\obj\Debug\variant4.csproj.AssemblyReference.cache
+C:\Users\Okysherka2012\Desktop\zxc\variant4\variant4\obj\Debug\variant4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okysherka2012\Desktop\zxc\variant4\variant4\obj\Debug\MainWindow.g.cs
+C:\Users\Okysherka2012\Desktop\zxc\variant4\variant4\obj\Debug\App.g.cs
+C:\Users\Okysherka2012\Desktop\zxc\variant4\variant4\obj\Debug\variant4_MarkupCompile.cache
+C:\Users\Okysherka2012\Desktop\zxc\variant4\variant4\obj\Debug\variant4_MarkupCompile.lref
+C:\Users\Okysherka2012\Desktop\zxc\variant4\variant4\bin\Debug\variant4.exe.config
+C:\Users\Okysherka2012\Desktop\zxc\variant4\variant4\bin\Debug\variant4.exe
+C:\Users\Okysherka2012\Desktop\zxc\variant4\variant4\bin\Debug\variant4.pdb
+C:\Users\Okysherka2012\Desktop\zxc\variant4\variant4\obj\Debug\MainWindow.baml
+C:\Users\Okysherka2012\Desktop\zxc\variant4\variant4\obj\Debug\variant4.g.resources
+C:\Users\Okysherka2012\Desktop\zxc\variant4\variant4\obj\Debug\variant4.Properties.Resources.resources
+C:\Users\Okysherka2012\Desktop\zxc\variant4\variant4\obj\Debug\variant4.csproj.GenerateResource.cache
+C:\Users\Okysherka2012\Desktop\zxc\variant4\variant4\obj\Debug\variant4.csproj.CoreCompileInputs.cache
+C:\Users\Okysherka2012\Desktop\zxc\variant4\variant4\obj\Debug\variant4.exe
+C:\Users\Okysherka2012\Desktop\zxc\variant4\variant4\obj\Debug\variant4.pdb
